@@ -1,0 +1,16 @@
+{
+  "name": "fab2u_firebase",
+  "version": "0.0.1",
+  "description": "Fab2U",
+  "author": "Mohammad Adnan",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adkhn999/ProjectIRIS.git"
+  },
+  "devDependencies": {
+    "angular": "^1.5.6",
+    "angularfire": "^2.0.1",
+    "firebase": "^3.0.4",
+    "angular-material": "^1.1.0-rc.5"
+  }
+}
